@@ -4,6 +4,6 @@ Highly opionated Github Actions workflow builder for Common Lisp projects.
 
 |---------+--------------------------------------|
 | source  | git:https://github.com/40ants/ci.git |
-| commit  | ed8a4a3                              |
+| commit  | cf132fe                              |
 | systems | 40ants-ci                            |
 |---------+--------------------------------------|
